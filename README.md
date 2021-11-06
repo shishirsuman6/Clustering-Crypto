@@ -3,7 +3,7 @@ PCA and clustering using K-Means (sklearn)
 
 ### Background Scenario
 
-A prominent investment bank, is interested in offering a new cryptocurrencies investment portfolio for its customers, however, they are lost in the immense universe of cryptocurrencies. They are lookign for informationthat would help them make sense of it all by generating a report of what cryptocurrencies are available on the trading market and how they can be grouped using classification.  
+A prominent investment bank, is interested in offering a new cryptocurrencies investment portfolio for its customers, however, they are lost in the immense universe of cryptocurrencies. They are looking for informationthat would help them make sense of it all by generating a report of what cryptocurrencies are available on the trading market and how they can be grouped using classification.  
 
 In this project, unsupervivsed learning and Amazon SageMaker skills are used to cluster cryptocurrencies and create plots to present results.
 
