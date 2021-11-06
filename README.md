@@ -7,7 +7,7 @@ A prominent investment bank, is interested in offering a new cryptocurrencies in
 
 In this project, unsupervivsed learning and Amazon SageMaker skills are used to cluster cryptocurrencies and create plots to present results.
 
-Following are teh the steps:
+Following are the steps:
 
 * **[Data Preprocessing](#Data-Preprocessing):** Prepare data for dimension reduction with PCA and clustering using K-Means.
 
